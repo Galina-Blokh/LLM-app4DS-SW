@@ -1,0 +1,10 @@
+openai
+langchain
+chromadb
+jupyterlab
+pandas
+numpy
+tiktoken
+evaluate
+nltk
+rouge_score
